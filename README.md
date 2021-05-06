@@ -1,4 +1,4 @@
-@Código por Franciscol Sandoval
+@Código por Francisco Sandoval
 # PalindromoEnsamblador
 
 Código en ensamblador que recibe un texto ingresado carácter por carácter y al final determina si el texto ingresado es un palíndromo o no.
